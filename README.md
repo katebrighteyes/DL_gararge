@@ -4,6 +4,20 @@
 
 pytorch_mnist_cnn.ipynb
 
+# Jetson 실습
+
+1) jetson inference 설치
+
+2) ssd training 
+
+3) camera inference teset
+
+4) tensorrt inference test
+
+
+
+
+------------------------------------------
 # 2. Classification
 
 # 2.1 Classification Training 
