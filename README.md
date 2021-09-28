@@ -8,11 +8,16 @@ pytorch_mnist_cnn.ipynb
 
 1) jetson inference 설치
 
-2) ssd training 
+2) camera inference test
 
-3) camera inference teset
+3) ssd training 
 
-4) tensorrt inference test
+구글 드라이브에 ssd 라는 폴더 생성.
+pytorch_ssd_training_infer.ipynb 코랩으로 실행.
+
+4) tensorrt convert
+
+5) inference test
 
 
 
