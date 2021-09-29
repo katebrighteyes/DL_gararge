@@ -13,7 +13,10 @@ pytorch_mnist_cnn.ipynb
 3) ssd training 
 
 구글 드라이브에 ssd 라는 폴더 생성.
+
 pytorch_ssd_training_infer.ipynb 코랩으로 실행.
+
+8번째 명령 줄에서 python3 open_images_downloader.py --max-images=2500 -> 이 숫자를 3500 으로 변경해서 실행
 
 4) tensorrt convert
 
